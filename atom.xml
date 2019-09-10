@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jennifermfeng.github.io</id>
-    <title>40y Retired</title>
-    <updated>2019-09-10T08:54:18.173Z</updated>
+    <title>Retired Life from 40</title>
+    <updated>2019-09-10T09:33:36.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jennifermfeng.github.io"/>
     <link rel="self" href="https://jennifermfeng.github.io/atom.xml"/>
     <subtitle>旅行前，读书后，有空做个商业评论——40岁离开职场，你也可以过得很精彩！</subtitle>
     <logo>https://jennifermfeng.github.io/images/avatar.png</logo>
     <icon>https://jennifermfeng.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 40y Retired</rights>
+    <rights>All rights reserved 2019, Retired Life from 40</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jennifermfeng.github.io/post/hello-gridea</id>
